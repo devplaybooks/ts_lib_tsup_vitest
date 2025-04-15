@@ -10,7 +10,13 @@
 
 - [How to Create Your Own TypeScript Library in 2024: A Step-by-Step Guide](https://simonboisset.com/blog/create-typescript-library-tsup)
 
+## Dependencies
+
+- [Vitest](https://vitest.dev/)
+- [Tsup](https://tsup.egoist.dev/)
+
 Includes:
+
 
 * [Actions Blank CI Starter Workglow](https://github.com/actions/starter-workflows/blob/main/ci/blank.yml)
 * [bnb's](https://github.com/bnb) [Codespaces Base Starter](https://github.com/codespaces-examples/base)

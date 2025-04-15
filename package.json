@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/devplaybooks/ts_lib/issues"
   },
-  "homepage": "https://github.com/devplaybooks/ts_lib#readme"
+  "homepage": "https://github.com/devplaybooks/ts_lib#readme",
+  "devDependencies": {
+    "tsup": "8.4.0",
+    "typescript": "5.8.3",
+    "vitest": "3.1.1"
+  }
 }
