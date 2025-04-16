@@ -8,7 +8,7 @@
 
 # Dev Playbook for TypeScript Libraries
 
-- [How to Create Your Own TypeScript Library in 2024: A Step-by-Step Guide](https://simonboisset.com/blog/create-typescript-library-tsup)
+Based on Simon Boisset's wonderfull [How to Create Your Own TypeScript Library in 2024: A Step-by-Step Guide](https://simonboisset.com/blog/create-typescript-library-tsup).
 
 ## Dependencies
 
